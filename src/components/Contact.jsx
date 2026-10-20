@@ -62,7 +62,8 @@ export default function Contact() {
                     <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-cyan-400/20 bg-cyan-500/12 text-cyan-300"><Phone size={20} /></span>
                     <span>
                       <span className="block text-sm font-medium text-slate-400">Call / WhatsApp</span>
-                      <a href="tel:+919876543210" className="font-semibold text-white hover:text-cyan-300">+91 98765 43210</a>
+                      <a href="tel:+917876309528" className="font-semibold text-white hover:text-cyan-300">+91 78763 09528</a>
+                      <a href="https://wa.me/917876309528" target="_blank" rel="noopener noreferrer" className="block text-sm font-medium text-emerald-300 hover:text-emerald-200">Chat on WhatsApp →</a>
                     </span>
                   </li>
                   <li className="flex items-start gap-4">
